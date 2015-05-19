@@ -5,10 +5,10 @@
   "url" : "http://www.nysenate.gov/committee/rules",
   "videoUrl" : "http://www.livestream.com/NYSenate_Rules",
   "chairs" : [ {
-    "nid" : 225,
-    "name" : "Dean G. Skelos",
-    "shortName" : "Skelos",
-    "url" : "http://www.nysenate.gov/senator/dean-g-skelos"
+    "nid" : 229,
+    "name" : "John J. Flanagan",
+    "shortName" : "Flanagan",
+    "url" : "http://www.nysenate.gov/senator/john-j-flanagan"
   } ],
   "members" : [ {
     "nid" : 220,
@@ -20,11 +20,6 @@
     "name" : "Hugh T. Farley",
     "shortName" : "Farley",
     "url" : "http://www.nysenate.gov/senator/hugh-t-farley"
-  }, {
-    "nid" : 229,
-    "name" : "John J. Flanagan",
-    "shortName" : "Flanagan",
-    "url" : "http://www.nysenate.gov/senator/john-j-flanagan"
   }, {
     "nid" : 230,
     "name" : "Kemp Hannon",
@@ -125,5 +120,10 @@
     "name" : "Bill Perkins",
     "shortName" : "Perkins",
     "url" : "http://www.nysenate.gov/senator/bill-perkins"
+  }, {
+    "nid" : 216,
+    "name" : "John A. DeFrancisco",
+    "shortName" : "DeFrancisco",
+    "url" : "http://www.nysenate.gov/senator/john-defrancisco"
   } ]
 }

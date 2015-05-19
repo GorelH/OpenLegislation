@@ -40,7 +40,7 @@ public class DaybreakSet implements Comparable<DaybreakSet>{
             return false;
         }
         DateTime sentDate = new DateTime(message.getSentDate());
-        if(Days.daysBetween(sentDate, anchorDate).getDays()>1 || Days.daysBetween(sentDate, anchorDate).getDays()<-1){
+        if(Days.daysBetween(sentDate, anchorDate).getDays()>2 || Days.daysBetween(sentDate, anchorDate).getDays()<-2){
             return false;
         }
 

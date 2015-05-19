@@ -208,7 +208,7 @@
 		                        <%
 		                            for (Bill rBill:rBills) {
 		                        %>
-		                           <a href="/legislation/bill/<%=rBill.getBillId()%>"><%=rBill.getBillId()%></a> 
+		                           <a href="<%=appPath%>/bill/<%=rBill.getBillId()%>"><%=rBill.getBillId()%></a>
 		                        <%
  		                            }
  		                        %>

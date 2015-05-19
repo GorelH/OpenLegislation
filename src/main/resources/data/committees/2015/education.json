@@ -4,12 +4,7 @@
   "shortName" : "education",
   "url" : "http://www.nysenate.gov/committee/education",
   "videoUrl" : "http://www.livestream.com/NYSenate_education",
-  "chairs" : [ {
-    "nid" : 229,
-    "name" : "John J. Flanagan",
-    "shortName" : "Flanagan",
-    "url" : "http://www.nysenate.gov/senator/john-j-flanagan"
-  } ],
+  "chairs" : [ ],
   "members" : [ {
     "nid" : 75586,
     "name" : "Tony Avella",
