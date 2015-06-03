@@ -35,9 +35,9 @@
     "phone" : "(212)-828-5829",
     "fax" : "(212)-828-2420",
     "otherPhone" : "",
-    "additional" : "Suite 202,",
-    "latitude" : 40.808687,
-    "longitude" : -73.936859
+    "additional" : "Suite 202",
+    "latitude" : 40.808596,
+    "longitude" : -73.936835
   } ],
   "district" : {
     "number" : 29,

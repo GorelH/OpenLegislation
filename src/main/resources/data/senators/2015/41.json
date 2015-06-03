@@ -23,6 +23,36 @@
     "additional" : "Room 812",
     "latitude" : 42.65,
     "longitude" : -73.76
+  }, {
+    "name" : "District Office",
+    "street" : "4254 Albany Post Road",
+    "city" : "Hyde Park",
+    "postalCode" : "12538",
+    "provinceName" : "New York",
+    "province" : "NY",
+    "countryName" : "United States",
+    "country" : "us",
+    "phone" : "845-229-0106",
+    "fax" : "845-229-2586",
+    "otherPhone" : "",
+    "additional" : "",
+    "latitude" : 41.782885,
+    "longitude" : -73.932592
+  }, {
+    "name" : "Satellite Office",
+    "street" : "117 Town Park Lane",
+    "city" : "Putnam Valley",
+    "postalCode" : "10579",
+    "provinceName" : "New York",
+    "province" : "NY",
+    "countryName" : "United States",
+    "country" : "us",
+    "phone" : "845-528-0417",
+    "fax" : "845-528-0468",
+    "otherPhone" : "",
+    "additional" : "",
+    "latitude" : 41.351122,
+    "longitude" : -73.864468
   } ],
   "district" : {
     "number" : 41,

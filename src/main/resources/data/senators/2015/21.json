@@ -9,21 +9,6 @@
   "url" : "http://www.nysenate.gov/senator/kevin-s-parker",
   "partyAffiliations" : [ "D", "WF" ],
   "offices" : [ {
-    "name" : "District Office",
-    "street" : "1300 Flatbush Avenue",
-    "city" : "Brooklyn",
-    "postalCode" : "11210",
-    "provinceName" : "New York",
-    "province" : "NY",
-    "countryName" : "United States",
-    "country" : "us",
-    "phone" : "(718) 629-6401",
-    "fax" : "(718) 629-6420",
-    "otherPhone" : "",
-    "additional" : "",
-    "latitude" : 40.638249,
-    "longitude" : -73.953696
-  }, {
     "name" : "Albany Office",
     "street" : "188 State Street",
     "city" : "Albany",
@@ -38,6 +23,21 @@
     "additional" : "Room 604, Legislative Office Building",
     "latitude" : 42.652855,
     "longitude" : -73.759091
+  }, {
+    "name" : "District Office",
+    "street" : "55 Hansen Place",
+    "city" : "Brooklyn",
+    "postalCode" : "11217",
+    "provinceName" : "New York",
+    "province" : "NY",
+    "countryName" : "United States",
+    "country" : "us",
+    "phone" : "(718) 629-6401",
+    "fax" : "(718) 629-6420",
+    "otherPhone" : "",
+    "additional" : "Shirley A. Chisholm SOB, Suite 650",
+    "latitude" : 40.685516,
+    "longitude" : -73.975627
   } ],
   "district" : {
     "number" : 21,
@@ -46,8 +46,8 @@
     "mapUrl" : "http://geo.nysenate.gov/maps/regular.jsp?x=850&y=595&sd=21"
   },
   "social" : {
-    "twitter" : "",
-    "youtube" : "",
+    "twitter" : "https://twitter.com/SenatorParker",
+    "youtube" : "https://www.youtube.com/user/NYSenate/search?query=parker",
     "myspace" : "",
     "picasa" : "",
     "flickr" : "",

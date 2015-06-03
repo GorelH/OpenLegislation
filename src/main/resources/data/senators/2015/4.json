@@ -38,6 +38,36 @@
     "additional" : "Suite B",
     "latitude" : 40.72048,
     "longitude" : -73.249339
+  }, {
+    "name" : "Press Office",
+    "street" : "Krista McNally",
+    "city" : "",
+    "postalCode" : "",
+    "provinceName" : "New York",
+    "province" : "NY",
+    "countryName" : "United States",
+    "country" : "us",
+    "phone" : "(631) 332-6753",
+    "fax" : "(Email): mcnally@nysenate.gov",
+    "otherPhone" : "",
+    "additional" : "",
+    "latitude" : 43.299429,
+    "longitude" : -74.217933
+  }, {
+    "name" : "Press Office",
+    "street" : "Christine Geed",
+    "city" : "",
+    "postalCode" : "",
+    "provinceName" : "New York",
+    "province" : "NY",
+    "countryName" : "United States",
+    "country" : "us",
+    "phone" : "(631) 398-8044",
+    "fax" : "(Email): geed@nysenate.gov",
+    "otherPhone" : "",
+    "additional" : "",
+    "latitude" : 43.299429,
+    "longitude" : -74.217933
   } ],
   "district" : {
     "number" : 4,

@@ -24,8 +24,8 @@
     "latitude" : 42.65,
     "longitude" : -73.76
   }, {
-    "name" : "Temporary District Office",
-    "street" : "40 Gleneida Avenue",
+    "name" : "Satellite Office",
+    "street" : "Putnam County Office Bldg.,3rd Floor,",
     "city" : "Carmel",
     "postalCode" : "10512",
     "provinceName" : "New York",
@@ -35,9 +35,24 @@
     "phone" : "845-225-3025",
     "fax" : "",
     "otherPhone" : "",
-    "additional" : "Putnam County Off. Bldg., 3rd Floor",
-    "latitude" : 41.425745,
-    "longitude" : -73.677848
+    "additional" : "40 Gleneida Avenue",
+    "latitude" : 41.425422,
+    "longitude" : -73.676552
+  }, {
+    "name" : "District Office",
+    "street" : "691 E. Main St,",
+    "city" : "Shrub Oak",
+    "postalCode" : "10588",
+    "provinceName" : "New York",
+    "province" : "NY",
+    "countryName" : "United States",
+    "country" : "us",
+    "phone" : "914-962-2624",
+    "fax" : "914-962-3505",
+    "otherPhone" : "",
+    "additional" : "1st Floor",
+    "latitude" : 41.327803,
+    "longitude" : -73.840124
   } ],
   "district" : {
     "number" : 40,

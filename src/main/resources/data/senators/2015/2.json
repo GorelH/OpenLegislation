@@ -25,7 +25,7 @@
     "longitude" : -73.179697
   }, {
     "name" : "Albany Office",
-    "street" : "Room 805 Legislative Office Building",
+    "street" : "Room 330, State Capitol Building",
     "city" : "Albany",
     "postalCode" : "12247",
     "provinceName" : "New York",
@@ -36,8 +36,8 @@
     "fax" : "518-426-6904",
     "otherPhone" : "",
     "additional" : "",
-    "latitude" : 42.652442,
-    "longitude" : -73.759332
+    "latitude" : 42.65,
+    "longitude" : -73.76
   } ],
   "district" : {
     "number" : 2,

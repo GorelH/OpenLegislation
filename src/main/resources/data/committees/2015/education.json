@@ -4,7 +4,12 @@
   "shortName" : "education",
   "url" : "http://www.nysenate.gov/committee/education",
   "videoUrl" : "http://www.livestream.com/NYSenate_education",
-  "chairs" : [ ],
+  "chairs" : [ {
+    "nid" : 222,
+    "name" : "Carl L Marcellino",
+    "shortName" : "Marcellino",
+    "url" : "http://www.nysenate.gov/senator/carl-l-marcellino"
+  } ],
   "members" : [ {
     "nid" : 75586,
     "name" : "Tony Avella",

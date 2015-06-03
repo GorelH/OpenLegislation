@@ -9,21 +9,6 @@
   "url" : "http://www.nysenate.gov/senator/david-carlucci",
   "partyAffiliations" : [ "D" ],
   "offices" : [ {
-    "name" : "District Office",
-    "street" : "95 South Middletown Road",
-    "city" : "Nanuet",
-    "postalCode" : "10954",
-    "provinceName" : "New York",
-    "province" : "NY",
-    "countryName" : "United States",
-    "country" : "us",
-    "phone" : "845-623-3627",
-    "fax" : "845-624-0424",
-    "otherPhone" : "",
-    "additional" : "",
-    "latitude" : 41.093429,
-    "longitude" : -74.012686
-  }, {
     "name" : "Ossining Office",
     "street" : "2 Church Street",
     "city" : "Ossining",
@@ -68,6 +53,21 @@
     "additional" : "311 Legislative Office Building",
     "latitude" : 42.65,
     "longitude" : -73.76
+  }, {
+    "name" : "District Office",
+    "street" : "20 South Main Street",
+    "city" : "New City",
+    "postalCode" : "10956",
+    "provinceName" : "New York",
+    "province" : "NY",
+    "countryName" : "United States",
+    "country" : "us",
+    "phone" : "845-623-3627",
+    "fax" : "845-708-7701",
+    "otherPhone" : "",
+    "additional" : "",
+    "latitude" : 41.147595,
+    "longitude" : -73.989306
   } ],
   "district" : {
     "number" : 38,

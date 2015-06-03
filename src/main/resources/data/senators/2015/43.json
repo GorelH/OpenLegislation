@@ -9,21 +9,6 @@
   "url" : "http://www.nysenate.gov/senator/kathleen-a-marchione",
   "partyAffiliations" : [ "R", "C" ],
   "offices" : [ {
-    "name" : "Satellite Office",
-    "street" : "560 Warren St.",
-    "city" : "Hudson",
-    "postalCode" : "12534",
-    "provinceName" : "New York",
-    "province" : "NY",
-    "countryName" : "United States",
-    "country" : "us",
-    "phone" : "518 828-5947",
-    "fax" : "518 828-8973",
-    "otherPhone" : "",
-    "additional" : "2nd Floor",
-    "latitude" : 42.248137,
-    "longitude" : -73.784616
-  }, {
     "name" : "Albany Office",
     "street" : "188 State Street",
     "city" : "Albany",
@@ -53,6 +38,21 @@
     "additional" : "",
     "latitude" : 0.0,
     "longitude" : 0.0
+  }, {
+    "name" : "Satellite Office",
+    "street" : "560 Warren St.",
+    "city" : "Hudson",
+    "postalCode" : "12534",
+    "provinceName" : "New York",
+    "province" : "NY",
+    "countryName" : "United States",
+    "country" : "us",
+    "phone" : "518 828-5947",
+    "fax" : "518 828-5973",
+    "otherPhone" : "",
+    "additional" : "2nd Floor",
+    "latitude" : 42.248137,
+    "longitude" : -73.784616
   } ],
   "district" : {
     "number" : 43,
