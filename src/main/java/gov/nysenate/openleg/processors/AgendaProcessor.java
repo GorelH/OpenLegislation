@@ -117,7 +117,7 @@ public class AgendaProcessor implements OpenLegConstants {
 
         if (xmlBill.getVotes() != null) {
             Date voteDate = meeting.getMeetingDateTime();
-            Vote vote = new Vote(bill, voteDate, Vote.VOTE_TYPE_COMMITTEE, "1");
+            Vote vote = new Vote(bill, voteDate, Vote.VOTE_TYPE_COMMITTEE, meeting.getCommitteeName().replace(" ", "-"));
             vote.setPublishDate(modifiedDate);
             vote.setModifiedDate(modifiedDate);
 
