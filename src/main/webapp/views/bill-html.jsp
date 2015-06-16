@@ -101,7 +101,7 @@
     String appPath = request.getContextPath();
 
     @SuppressWarnings("unchecked")
-    ArrayList<Bill> rBills = defaultList((ArrayList<Bill>)request.getAttribute("related-bill"));
+    ArrayList<Bill> rBills = defaultList((ArrayList<Bill>) request.getAttribute("related-bill"));
     @SuppressWarnings("unchecked")
     ArrayList<Action> rActions = defaultList((ArrayList<Action>)request.getAttribute("related-action"));
     @SuppressWarnings("unchecked")
@@ -115,7 +115,8 @@
     String year = null;
     
     SimpleDateFormat calendarSdf = new SimpleDateFormat("MMM d, yyyy");
-    
+    SimpleDateFormat calendarSdf2 = new SimpleDateFormat("MM-dd-yyyy");
+
     DateFormat df = SimpleDateFormat.getDateInstance(SimpleDateFormat.MEDIUM);
     
     String billMemo = bill.getMemo().replace("-\n", "").replace("\n\n", "<br/><br/>").replace("\n", " ");
@@ -333,7 +334,7 @@
 			                    calDate = sup.getCalendarDate();
 			                }
 			                %>
-			                <li><a href="<%=appPath%>/calendar/<%=cal.getOid()%>" class="sublink"><%=type%><%=calDate == null ? "" : ": " +  calendarSdf.format(calDate)%></a></li>
+			                <li><a href="<%=appPath%>/calendar/<%= cal.getType() + "-" + calendarSdf2.format(calDate)  %>" class="sublink"><%=type%><%=calDate == null ? "" : ": " +  calendarSdf.format(calDate)%></a></li>
 		                <% } %>
 		            </ul></div>
 		        <% } %>
