@@ -4,12 +4,7 @@
   "shortName" : "ethics",
   "url" : "http://www.nysenate.gov/committee/ethics",
   "videoUrl" : "http://www.livestream.com/NYSenate_Ethics",
-  "chairs" : [ {
-    "nid" : 75586,
-    "name" : "Tony Avella",
-    "shortName" : "Avella",
-    "url" : "http://www.nysenate.gov/senator/tony-avella"
-  } ],
+  "chairs" : [ ],
   "members" : [ {
     "nid" : 221,
     "name" : "Andrew J Lanza",
