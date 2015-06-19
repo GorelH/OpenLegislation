@@ -4,7 +4,12 @@
   "shortName" : "ethics",
   "url" : "http://www.nysenate.gov/committee/ethics",
   "videoUrl" : "http://www.livestream.com/NYSenate_Ethics",
-  "chairs" : [ ],
+  "chairs" : [ {
+    "nid" : 252721,
+    "name" : "Thomas D. Croci",
+    "shortName" : "Croci",
+    "url" : "http://www.nysenate.gov/senator/thomas-croci"
+  } ],
   "members" : [ {
     "nid" : 221,
     "name" : "Andrew J Lanza",
