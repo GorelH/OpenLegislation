@@ -3,9 +3,9 @@
   "name" : "Catharine Young",
   "lastName" : "Young",
   "shortName" : "Young",
-  "email" : "cyoung@senate.state.ny.us",
+  "email" : "cyoung@nysenate.gov",
   "additionalContact" : "",
-  "imageUrl" : "http://www.nysenate.gov/files/profile-pictures/young headshot-ret.jpg",
+  "imageUrl" : "http://www.nysenate.gov/files/profile-pictures/young headshot-ret_1.jpg",
   "url" : "http://www.nysenate.gov/senator/catharine-young",
   "partyAffiliations" : [ "R", "C", "IP" ],
   "offices" : [ {
@@ -24,21 +24,6 @@
     "latitude" : 42.083639,
     "longitude" : -78.429927
   }, {
-    "name" : "Satellite Office",
-    "street" : "Fenton Building",
-    "city" : "Jamestown",
-    "postalCode" : "14701",
-    "provinceName" : "New York",
-    "province" : "NY",
-    "countryName" : "United States",
-    "country" : "us",
-    "phone" : "716-664-4603",
-    "fax" : "716-664-2430",
-    "otherPhone" : "",
-    "additional" : "2-6 E. 2nd Street, Suite 302",
-    "latitude" : 42.016199,
-    "longitude" : -76.726671
-  }, {
     "name" : "Albany Office",
     "street" : "307 Legislative Office Building",
     "city" : "Albany",
@@ -53,6 +38,21 @@
     "additional" : "188 State Street",
     "latitude" : 42.65,
     "longitude" : -73.76
+  }, {
+    "name" : "Satellite Office",
+    "street" : "2-6 E. 2nd Street, Suite 302",
+    "city" : "Jamestown",
+    "postalCode" : "14701",
+    "provinceName" : "New York",
+    "province" : "NY",
+    "countryName" : "United States",
+    "country" : "us",
+    "phone" : "716-664-4603",
+    "fax" : "716-664-2430",
+    "otherPhone" : "",
+    "additional" : "Fenton Building",
+    "latitude" : 42.09539,
+    "longitude" : -79.240788
   } ],
   "district" : {
     "number" : 57,

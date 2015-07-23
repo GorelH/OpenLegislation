@@ -9,21 +9,6 @@
   "url" : "http://www.nysenate.gov/senator/leroy-comrie",
   "partyAffiliations" : [ "D" ],
   "offices" : [ {
-    "name" : "District Office",
-    "street" : "205-20 Jamaica Avenue",
-    "city" : "Hollis",
-    "postalCode" : "11423",
-    "provinceName" : "New York",
-    "province" : "NY",
-    "countryName" : "United States",
-    "country" : "us",
-    "phone" : "718-454-0162",
-    "fax" : "",
-    "otherPhone" : "",
-    "additional" : "2nd Floor",
-    "latitude" : 40.713484,
-    "longitude" : -73.754424
-  }, {
     "name" : "Albany Office",
     "street" : "Legislative Office Building,",
     "city" : "Albany",
@@ -38,6 +23,21 @@
     "additional" : "Room 617",
     "latitude" : 42.65,
     "longitude" : -73.76
+  }, {
+    "name" : "District Office",
+    "street" : "113-43 Farmers Boulevard",
+    "city" : "St. Albans",
+    "postalCode" : "11412",
+    "provinceName" : "New York",
+    "province" : "NY",
+    "countryName" : "United States",
+    "country" : "us",
+    "phone" : "718-454-0162",
+    "fax" : "",
+    "otherPhone" : "",
+    "additional" : "",
+    "latitude" : 40.696994,
+    "longitude" : -73.761565
   } ],
   "district" : {
     "number" : 14,

@@ -4,10 +4,10 @@
   "lastName" : "Marchione",
   "shortName" : "Marchione",
   "email" : "marchione@nysenate.gov",
-  "additionalContact" : "<p>Albany Office - Open M-F 9-5</p><p>District Office - Open Tues-Thurs 8-4</p><p>Satellite Office - Open&nbsp;<span style=\"font-size: 16.363636016845703px;\">Tues-Thurs&nbsp;</span><span style=\"font-size: 16.363636016845703px; line-height: 1;\">9-5</span></p><p>&nbsp;</p>",
+  "additionalContact" : "<p>Albany Office - Open M-F 9-5</p><p>District Office - Open Tues-Thurs 8-4</p><p>Satellite Office - Open&nbsp;<span style=\"font-size: 16.36px;\">Tues-Thurs&nbsp;</span><span style=\"line-height: 1; font-size: 16.36px;\">9-5</span></p><p>&nbsp;</p>",
   "imageUrl" : "http://www.nysenate.gov/files/profile-pictures/Senator_Kathy_Marchione.jpg",
   "url" : "http://www.nysenate.gov/senator/kathleen-a-marchione",
-  "partyAffiliations" : [ "R", "C" ],
+  "partyAffiliations" : [ "R", "C", "IP" ],
   "offices" : [ {
     "name" : "Albany Office",
     "street" : "188 State Street",

@@ -25,9 +25,9 @@
     "longitude" : -73.759161
   }, {
     "name" : "District Office",
-    "street" : "718 Knickerbocker Avenue",
+    "street" : "573 Metropolitan Avenue",
     "city" : "Brooklyn",
-    "postalCode" : "11221",
+    "postalCode" : "11211",
     "provinceName" : "New York",
     "province" : "NY",
     "countryName" : "United States",
@@ -35,9 +35,9 @@
     "phone" : "(718) 573-1726",
     "fax" : "(718) 573-2407",
     "otherPhone" : "",
-    "additional" : "",
-    "latitude" : 40.694149,
-    "longitude" : -73.91017
+    "additional" : "Between Lorimer Street and Union Avenue",
+    "latitude" : 40.714254,
+    "longitude" : -73.949914
   } ],
   "district" : {
     "number" : 18,
